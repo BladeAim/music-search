@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>歌曲搜索</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="search-container">
+    <input type="text" id="song-name" placeholder="输入歌曲名">
+    <button onclick="searchSong()">搜索</button>
+  </div>
+  <div class="result-container" id="result-container">
+    <img id="song-cover" src="" alt="歌曲封面">
+    <div id="song-info"></div>
+    <audio id="song-audio" controls></audio>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

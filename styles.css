@@ -1,0 +1,63 @@
+/* 全局样式 */
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+  }
+  
+  .search-container {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .search-container input {
+    padding: 10px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .search-container button {
+    padding: 10px 20px;
+    background-color: #426B1F;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .search-container button:hover {
+    background-color: #38561a;
+  }
+  
+  .result-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .result-container img {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+  }
+  
+  .result-container audio {
+    margin-top: 10px;
+    width: 300px;
+  }
+  
+  .result-container div {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 10px;
+  }
