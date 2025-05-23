@@ -1,10 +1,4 @@
-以下是将该教程内容转换为 Markdown 格式的文档：
-
 # MCP 教程：将 Figma 设计稿转化为前端代码
-
-还在手动从设计稿提取样式、编写基础代码？试试 Trae IDE 的模型上下文协议（MCP）功能吧。通过使用 MCP Server - Figma AI Bridge，自动将你的 Figma 设计稿转换为整洁的前端代码，并生成相应的网页。简单高效，无需复杂配置，跟随文中的步骤操作，即可体验智能化的设计交付。让我们开始吧！
-
-![img](https://p9-arcosite.byteimg.com/https://p9-arcosite.byteimg.com/obj/tos-cn-i-goo7wpa0wc/5fdbb1bf196049f28d57689d35a3efdf~tplv-goo7wpa0wc-quality:q75.image)
 
 ## 环境准备
 
